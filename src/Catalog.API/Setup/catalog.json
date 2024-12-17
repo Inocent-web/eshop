@@ -806,5 +806,23 @@
     "Name": "Trek Xtreme Hiking Shoes",
     "Description": "The Trek Xtreme hiking shoes by Raptor Elite are built to endure any trail. With their durable leather upper and rugged rubber sole, they offer excellent traction and protection. These shoes come in a timeless brown color that adds a touch of style to your outdoor adventures.",
     "Price": 135.99
+  },
+  {
+    "Id": "601",
+    "Type": "jackets",
+    "Name": "Smart Fitness Tracker",
+    "Description": "A sleek and waterproof fitness tracker with heart rate monitoring and sleep analysis.",
+    "Price": 49.99,
+    "PictureFileName": "winter-jacket.jpg"
+  },
+  {
+    "Id": "602",
+    "Type": "Cycling",
+    "Name": "Wireless Noise-Canceling Headphones",
+    "Description": "Premium over-ear headphones with advanced noise-canceling technology and 40-hour battery life.",
+    "Price": 199.99,
+    "PictureFileName": "headphones.jpg"
+
   }
 ]
+
