@@ -910,20 +910,20 @@
   },
   {
     "Id": 102,
-    "Type": "Jackets",
-    "Brand": "Climbing",
-    "gender": "male", 
-    "Name" : "Smart Fitness Tracker",
-    "Description": "A sleek and waterproof fitness tracker with heart rate monitoring and sleep analysis.",
+    "Type": "Headphones",
+    "Brand": "JBL",
+    "gender": "male",
+    "Name": "Wireless Noise-Canceling Headphones",
+    "Description": "Premium over-ear headphones with advanced noise-canceling technology and 40-hour battery life.",
     "Price": 49.99
   },
   {
     "Id": 103,
-    "Type": "Headsets",
-    "Brand": "Entertainment",
+    "Type": "Jacket",
+    "Brand": "Warmth",
     "gender": "male",
-    "Name" : "Wireless Noise-Canceling Headphones",
-    "Description": "Premium over-ear headphones with advanced noise-canceling technology and 40-hour battery life.",
+    "Name": "Winter Jacket",
+    "Description": "A sleek and waterproof jacket for very cold winter weather conditions.",
     "Price": 199.99
   },
   {
