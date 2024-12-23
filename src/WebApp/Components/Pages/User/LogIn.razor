@@ -10,9 +10,9 @@
 
     protected override async Task OnInitializedAsync()
     {
-        var returnUrl = ReturnUrl ?? "/";
+        var returnUrl = ReturnUrl ?? "https://localhost:7298/";
         var url = new Uri(returnUrl, UriKind.RelativeOrAbsolute);
-        Nav.NavigateTo(url.IsAbsoluteUri ? "/" : returnUrl);
+        Nav.NavigateTo(url.IsAbsoluteUri ? "https://localhost:7298/" : returnUrl);
         await base.OnInitializedAsync();
     }
 
