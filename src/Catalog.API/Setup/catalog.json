@@ -808,21 +808,28 @@
     "Price": 135.99
   },
   {
-    "Id": "601",
-    "Type": "jackets",
+    "Id": 102,
+    "Type": "Jackets",
+    "Brand": "Climbing",
     "Name": "Smart Fitness Tracker",
     "Description": "A sleek and waterproof fitness tracker with heart rate monitoring and sleep analysis.",
-    "Price": 49.99,
-    "PictureFileName": "winter-jacket.jpg"
+    "Price": 49.99
   },
   {
-    "Id": "602",
-    "Type": "Cycling",
+    "Id": 103,
+    "Type": "Headsets",
+    "Brand": "Entertainment",
     "Name": "Wireless Noise-Canceling Headphones",
     "Description": "Premium over-ear headphones with advanced noise-canceling technology and 40-hour battery life.",
-    "Price": 199.99,
-    "PictureFileName": "headphones.jpg"
-
+    "Price": 199.99
+  },
+  {
+    "Id": 104,
+    "Type": "Climbing Bag",
+    "Brand": "Climbing",
+    "Name": "Wireless Noise-Canceling Headphones",
+    "Description": "Premium over-ear headphones with advanced noise-canceling technology and 40-hour battery life.",
+    "Price": 199.99
   }
 ]
 
