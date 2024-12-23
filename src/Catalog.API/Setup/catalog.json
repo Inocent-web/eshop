@@ -3,7 +3,7 @@
     "Id": 1,
     "Type": "Footwear",
     "Brand": "Daybird",
-    "gender": "male",, 
+    "gender": "male", 
     "Name" : "Wanderer Black Hiking Boots",
     "Description": "Daybird's Wanderer Hiking Boots in sleek black are perfect for all your outdoor adventures. These boots are made with a waterproof leather upper and a durable rubber sole for superior traction. With their cushioned insole and padded collar, these boots will keep you comfortable all day long.",
     "Price": 109.99
@@ -12,7 +12,7 @@
     "Id": 2,
     "Type": "Climbing",
     "Brand": "Gravitator",
-    "gender": "male",, 
+    "gender": "male", 
     "Name" : "Summit Pro Harness",
     "Description": "Conquer new heights with the Summit Pro Harness by Gravitator. This lightweight and durable climbing harness features adjustable leg loops and waist belt for a customized fit. With its vibrant blue color, you'll look stylish while maneuvering difficult routes. Safety is a top priority with a reinforced tie-in point and strong webbing loops.",
     "Price": 89.99
@@ -21,7 +21,7 @@
     "Id": 3,
     "Type": "Ski/boarding",
     "Brand": "WildRunner",
-    "gender": "male",, 
+    "gender": "male", 
     "Name" : "Alpine Fusion Goggles",
     "Description": "Enhance your skiing experience with the Alpine Fusion Goggles from WildRunner. These goggles offer full UV protection and anti-fog lenses to keep your vision clear on the slopes. With their stylish silver frame and orange lenses, you'll stand out from the crowd. Adjustable straps ensure a secure fit, while the soft foam padding provides comfort all day long.",
     "Price": 79.99
